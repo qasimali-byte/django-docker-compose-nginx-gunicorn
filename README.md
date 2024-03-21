@@ -33,7 +33,7 @@ View networks:
 `docker network ls`
 
 Bring services down:
-`docker-compose down`
+`docker compose down`
 
 Open a bash session in a running container:
 `docker exec -it <container ID> /bin/bash`
